@@ -1,0 +1,12 @@
+langchain
+openai
+streamlit
+pinecone-client
+chromadb
+unstructured
+pdf2image
+pytesseract
+tiktoken
+pymupdf
+tabulate
+lark
